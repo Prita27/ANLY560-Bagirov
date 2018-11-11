@@ -1,0 +1,19 @@
+
+This is a test.
+
+/Users/harshanariseti/Documents/MYHU/ANLY560-FunctionalProgramming/ANLY560-Bagirov-master
+
+Git init
+
+git remote add origin https://github.com/HNariseti/ANLY560-Bagirov 
+
+Git add demo.txt
+
+Git commit -m "steps update"
+
+Should i add to ssh/config?-- local repository only
+git config --global user.email "hnariseti@my.harrisburgu.edu"
+
+git push -u origin master
+
+
